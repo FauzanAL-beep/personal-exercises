@@ -1,0 +1,72 @@
+'''
+fail = mse(slope,b,results)
+print(fail)
+slopet = slope
+bt = b
+slope = slopet - jm(slopet,bt,results,lr)
+b = bt - jb(slopet,bt,results,lr)
+print(slope)
+print(b)
+print('---')
+
+fail = mse(slope,b,results)
+print(fail)
+slopet = slope
+bt = b
+slope = slopet - jm(slopet,bt,results,lr)
+b = bt - jb(slopet,bt,results,lr)
+print(slope)
+print(b)
+print('---')
+
+fail = mse(slope,b,results)
+print(fail)
+slopet = slope
+bt = b
+slope = slopet - jm(slopet,bt,results,lr)
+b = bt - jb(slopet,bt,results,lr)
+print(slope)
+print(b)
+print('---')
+'''
+'''
+while True:
+    fail = mse(slope,b,results)
+    print(fail)
+    if fail<0.5:
+        break
+    else:
+        j = fail*2
+        slope = slope - j
+        b = b - j
+
+print(fail)
+'''
+
+'''
+df = pd.read_csv('./datasets/idk.csv', delimiter=',', names=['x', 'y'])
+df['x-X'] = df.apply(lambda row: row['x'] - df['x'].mean(), axis=1)
+df['y-Y'] = df.apply(lambda row: row['y'] - df['y'].mean(), axis=1)
+df['(x-X)(y-Y)'] = df.apply(lambda row: row['x-X'] * row['y-Y'], axis=1)
+df['(x-X)^2'] = df.apply(lambda row: row['x-X'] * row['x-X'], axis=1)
+slope = df['(x-X)(y-Y)'].sum() / df['(x-X)^2'].sum()
+c = df['y'].mean() - (slope*df['x'].mean())
+f = lambda x: slope*x + c
+
+print(df)
+print(df.mean())
+print('slope: ', slope)
+print('c: ', c)
+print('y = ',slope,'x + ',c)
+
+plt.scatter(df['x'], df['y'], label='csv')
+#x=np.array([2,5])
+x = np.linspace(0, 10, 1000)
+plt.plot(x, f(x))
+
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('Linear Depression')
+plt.legend()
+plt.show()
+'''
