@@ -4,7 +4,7 @@ import pandas as pd
 import csv
 import random
 import math
-
+#
 def sig(x): #activation function: sigmoid
     return 1 /(1+(math.e**-x))
 def mse(tar,out): #error check (means squared error)
