@@ -81,7 +81,6 @@ for i,k in enumerate(w1): #for the hidden
 
 #print('w[0][0] = w[0][0]-(((o[0]-t[0])*o[0]*(1-o[0])*w2t[0][0])+((o[1]-t[1])*o[1]*(1-o[1])*w2t[0][1])+...)*h[0]*(1-h[0])*i[0]*a')
         
-
 # w2[2][4] = w2t[2][4]-a*grad(o[2],testd1o[2],h[4])
 # w2[2][3] = w2t[2][3]-a*grad(o[2],testd1o[2],h[3])
 # w2[2][2] = w2t[2][2]-a*grad(o[2],testd1o[2],h[2])
