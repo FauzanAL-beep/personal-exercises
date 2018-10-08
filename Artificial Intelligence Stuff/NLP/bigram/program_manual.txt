@@ -1,0 +1,29 @@
+There are two source code files which are "mainbigram.py" and "mainbigram.ipynb". You can choose either.
+
+REQUIREMENT:
+- Python3
+- package NLTK
+
+For "mainbigram.py"
+Instruction:
+1. Shift+right click on the directory where mainbigram.py is stored
+2. Select "open windows powershell" or "open command prompt"
+3. Enter command "python mainbigram.py" and press enter
+4. Then the first input is to input the word after the word that is inputted
+5. The second input is to check the probability of the sentence and the perplexity of the sentence
+
+For "mainbigram.ipynb"
+>REQUIREMENT:
+- Jupyter Notebook
+
+Make sure that you have installed Jupyter Notebook and set the "jupyter" to System PATH
+Instruction:
+1. Shift+right click on the directory where "mainbigram.ipynb" is stored
+2. Select "open windows powershell" or "open command prompt"
+3. Enter command "jupyter notebook" and press enter
+4. Wait until the localhost server is running, and it will open the localhost in your default browser
+5. Select the "mainbigram.ipynb" file
+6. Press "run" button (triangle) at top for first run
+7. Now you can select any cell to run, the first cell is just to load the model and libraries
+8. The second cell is to predict word after word that is inputted
+9. The third cell is to count probability of a sentence that is inputted and its perplexity
