@@ -1,0 +1,11 @@
+BLT FUZZY RULES
+Penghasilan	Hutang	Score
+High		High	Con	
+High		Average	Rej
+High		Low	Rej
+Average		High	Acc
+Average		Average	Con
+Average		Low	Con
+Low		High	Acc
+Low		Average	Acc
+Low		Low	Con
