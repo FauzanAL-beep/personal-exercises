@@ -1,0 +1,12 @@
+make sure you have installed python 3.6 and packages below:
+- NLTK
+- Sastrawi
+
+If you haven't installed it, you should install it with this command:
+
+python -m pip install nltk
+python -m pip install sastrawi
+
+When you have installed it, run the main.py file to train and make the model (note that this might take a long time, on my environment this takes around 2.5 hours)
+
+If you want to test with your own input, run the test.py file and input your sentence.
