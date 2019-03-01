@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+    background:#ddd;
+}
+.svg-box-content{
+    position:relative;
+}
+.svg-box{
+    max-width:500px;
+    margin: 0 auto;
+    background: #eee
+}
+</style>
+</head>
+<body>
+
+<h1>My first SVG</h1>
+<div class="svg-box">
+    <svg class="svg-box-content" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0, 0, 500, 500">
+        <!-- <line x1="0" y1="0" x2="200" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" />
+        <circle cx="50" cy="145" r="40" stroke="green" stroke-width="5" fill="yellow"></circle>
+        <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+        <circle cx="50" cy="205" r="40" stroke="green" stroke-width="5" fill="yellow" /> -->
+        <svg id="bird" style="overflow: visible" x="43" y="190">
+            <g fill="white" stroke="green" stroke-width="3">
+                <circle cx="0" cy="0" r="40"   />
+                <circle cx="0" cy="120" r="40" />
+            </g>
+        </svg>
+        <svg style="overflow: visible" x="50%" y="130">
+            <g fill="white" stroke="green" stroke-width="3">
+                <circle cx="0" cy="0" r="40"/>
+                <circle cx="0" cy="120" r="40"/>
+                <circle cx="0" cy="240" r="40"/>
+            </g>
+        </svg>
+        <svg style="overflow: visible" x="457" y="190" width="40">
+            <g fill="white" stroke="green" stroke-width="3">
+                <circle cx="0" cy="0" r="40"/>
+                <circle cx="0" cy="120" r="40"/>
+            </g>
+        </svg>
+        Sorry, your browser does not support inline SVG.
+    </svg>
+</div>
+</body>
+</html>

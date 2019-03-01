@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+    background:#ddd;
+}
+.svg-box-content{
+    position:relative;
+}
+.svg-box{
+    max-width:500px;
+    margin: 0 auto;
+    background: #eee
+}
+</style>
+</head>
+<body>
+
+<h1>My first SVG</h1>
+<div class="svg-box">
+    <svg class="svg-box-content" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0, 0, 500, 500">
+        <!-- <line x1="0" y1="0" x2="200" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" />
+        <circle cx="50" cy="145" r="40" stroke="green" stroke-width="5" fill="yellow"></circle>
+        <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+        <circle cx="50" cy="205" r="40" stroke="green" stroke-width="5" fill="yellow" /> -->
+        <svg id="bird" style="overflow: visible" x="43" y="190">
+            <g fill="white" stroke="green" stroke-width="3">
+                <circle cx="0" cy="0" r="40"/>
+                <text id='x10' x="0" y="-12" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='x11' x="0" y="0" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='x12' x="0" y="12" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='x13' x="0" y="24" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+                <circle cx="0" cy="120" r="40" />
+                <text id='x20' x="0" y="108" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='x21' x="0" y="120" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='x22' x="0" y="132" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='x23' x="0" y="144" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+            </g>
+        </svg>
+        <svg style="overflow: visible" x="50%" y="130">
+            <g fill="white" stroke="green" stroke-width="3">
+                <circle cx="0" cy="0" r="40"/>
+                <text id='h10' x="0" y="-12" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='h11' x="0" y="0" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='h12' x="0" y="12" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='h13' x="0" y="24" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+                <circle cx="0" cy="120" r="40"/>
+                <text id='h20' x="0" y="108" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='h21' x="0" y="120" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='h22' x="0" y="132" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='h23' x="0" y="144" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+                <circle cx="0" cy="240" r="40"/>
+                <text id='h30' x="0" y="228" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='h31' x="0" y="240" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='h32' x="0" y="252" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='h33' x="0" y="264" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+            </g>
+        </svg>
+        <svg style="overflow: visible" x="457" y="190" width="40">
+            <g fill="white" stroke="green" stroke-width="3">
+                <circle cx="0" cy="0" r="40"/>
+                <text id='y10' x="0" y="-12" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='y11' x="0" y="0" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='y12' x="0" y="12" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='y13' x="0" y="24" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+                <circle cx="0" cy="120" r="40"/>
+                <text id='y20' x="0" y="108" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x0</text>
+                <text id='y21' x="0" y="120" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x1</text>
+                <text id='y22' x="0" y="132" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x2</text>
+                <text id='y23' x="0" y="144" fill="#000" font-size="12px" text-anchor="middle" style='stroke-width:0'>x3</text>
+            </g>
+        </svg>
+        Sorry, your browser does not support inline SVG.
+    </svg>
+</div>
+<script>
+var x10= document.getElementById('x10')
+x10.textContent='dddd'
+</script>
+</body>
+</html>
