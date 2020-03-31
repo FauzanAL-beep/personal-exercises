@@ -1,0 +1,451 @@
+PlayerID,Name,Age,nationality,club,Potential,Overall
+1,L. Messi,32,Argentina,FC Barcelona,94,94
+2,Cristiano Ronaldo,34,Portugal,Juventus,93,93
+3,Neymar Jr,27,Brazil,Paris Saint-Germain,92,92
+4,J. Oblak,26,Slovenia,Atlético Madrid,93,91
+5,E. Hazard,28,Belgium,Real Madrid,91,91
+6,K. De Bruyne,28,Belgium,Manchester City,91,91
+7,M. ter Stegen,27,Germany,FC Barcelona,93,90
+8,V. van Dijk,27,Netherlands,Liverpool,91,90
+9,L. Modrić,33,Croatia,Real Madrid,90,90
+10,M. Salah,27,Egypt,Liverpool,90,90
+11,K. Mbappé,20,France,Paris Saint-Germain,95,89
+12,K. Koulibaly,28,Senegal,Napoli,91,89
+13,H. Kane,25,England,Tottenham Hotspur,91,89
+14,Alisson,26,Brazil,Liverpool,91,89
+15,De Gea,28,Spain,Manchester United,90,89
+16,N. Kanté,28,France,Chelsea,90,89
+17,G. Chiellini,34,Italy,Juventus,89,89
+18,S. Agüero,31,Argentina,Manchester City,89,89
+19,Sergio Ramos,33,Spain,Real Madrid,89,89
+20,L. Suárez,32,Uruguay,FC Barcelona,89,89
+21,R. Lewandowski,30,Poland,FC Bayern München,89,89
+22,Sergio Busquets,30,Spain,FC Barcelona,89,89
+23,A. Griezmann,28,France,FC Barcelona,89,89
+24,P. Dybala,25,Argentina,Juventus,92,88
+25,P. Pogba,26,France,Manchester United,91,88
+26,Ederson,25,Brazil,Manchester City,91,88
+27,R. Sterling,24,England,Manchester City,90,88
+28,C. Eriksen,27,Denmark,Tottenham Hotspur,89,88
+29,T. Courtois,27,Belgium,Real Madrid,89,88
+30,Piqué,32,Spain,FC Barcelona,88,88
+31,S. Handanovič,34,Slovenia,Inter,88,88
+32,M. Neuer,33,Germany,FC Bayern München,88,88
+33,H. Lloris,32,France,Tottenham Hotspur,88,88
+34,David Silva,33,Spain,Manchester City,88,88
+35,E. Cavani,32,Uruguay,Paris Saint-Germain,88,88
+36,D. Godín,33,Uruguay,Inter,88,88
+37,T. Kroos,29,Germany,Real Madrid,88,88
+38,M. Reus,30,Germany,Borussia Dortmund,88,88
+39,P. Aubameyang,30,Gabon,Arsenal,88,88
+40,S. Mané,27,Senegal,Liverpool,88,88
+41,A. Laporte,25,France,Manchester City,90,87
+42,Bernardo Silva,24,Portugal,Manchester City,90,87
+43,Casemiro,27,Brazil,Real Madrid,89,87
+44,H. Son,26,Korea Republic,Tottenham Hotspur,88,87
+45,Fernandinho,34,Brazil,Manchester City,87,87
+46,Thiago Silva,34,Brazil,Paris Saint-Germain,87,87
+47,K. Benzema,31,France,Real Madrid,87,87
+48,J. Vertonghen,32,Belgium,Tottenham Hotspur,87,87
+49,D. Mertens,32,Belgium,Napoli,87,87
+50,M. Hummels,30,Germany,Borussia Dortmund,87,87
+51,T. Alderweireld,30,Belgium,Tottenham Hotspur,87,87
+52,Jordi Alba,30,Spain,FC Barcelona,87,87
+53,Thiago,28,Spain,FC Bayern München,87,87
+54,K. Navas,32,Costa Rica,Real Madrid,87,87
+55,L. Insigne,28,Italy,Napoli,87,87
+56,L. Sané,23,Germany,Manchester City,92,86
+57,Marquinhos,25,Brazil,Paris Saint-Germain,90,86
+58,M. Škriniar,24,Slovakia,Inter,90,86
+59,M. Verratti,26,Italy,Paris Saint-Germain,89,86
+60,S. Umtiti,25,France,FC Barcelona,89,86
+61,W. Szczęsny,29,Poland,Juventus,88,86
+62,J. Kimmich,24,Germany,FC Bayern München,88,86
+63,Isco,27,Spain,Real Madrid,87,86
+64,Roberto Firmino,27,Brazil,Liverpool,87,86
+65,I. Rakitić,31,Croatia,FC Barcelona,86,86
+66,M. Pjanić,29,Bosnia Herzegovina,Juventus,86,86
+67,A. Di María,31,Argentina,Paris Saint-Germain,86,86
+68,L. Bonucci,32,Italy,Juventus,86,86
+69,Coutinho,27,Brazil,FC Bayern München,86,86
+70,Parejo,30,Spain,Valencia CF,86,86
+71,T. Müller,29,Germany,FC Bayern München,86,86
+72,C. Immobile,29,Italy,Lazio,86,86
+73,A. Lacazette,28,France,Arsenal,86,86
+74,M. de Ligt,19,Netherlands,Juventus,93,85
+75,G. Donnarumma,20,Italy,Milan,92,85
+76,F. de Jong,22,Netherlands,FC Barcelona,91,85
+77,R. Varane,26,France,Real Madrid,90,85
+78,N. Süle,23,Germany,FC Bayern München,90,85
+79,S. Milinković-Savić,24,Serbia,Lazio,90,85
+80,Rodri,23,Spain,Manchester City,90,85
+81,Saúl,24,Spain,Atlético Madrid,89,85
+82,Fabinho,25,Brazil,Liverpool,89,85
+83,A. Robertson,25,Scotland,Liverpool,89,85
+84,J. Giménez,24,Uruguay,Atlético Madrid,89,85
+85,C. Lenglet,24,France,FC Barcelona,89,85
+86,Bruno Fernandes,24,Portugal,Sporting CP,88,85
+87,A. Lopes,28,Portugal,Olympique Lyonnais,87,85
+88,P. Gulácsi,29,Hungary,RB Leipzig,86,85
+89,R. Bürki,28,Switzerland,Borussia Dortmund,86,85
+90,R. Lukaku,26,Belgium,Inter,86,85
+91,K. Manolas,28,Greece,Napoli,86,85
+92,Neto,29,Brazil,FC Barcelona,86,85
+93,D. Alaba,27,Austria,FC Bayern München,86,85
+94,M. Icardi,26,Argentina,Inter,86,85
+95,Carvajal,27,Spain,Real Madrid,86,85
+96,H. Ziyech,26,Morocco,Ajax,86,85
+97,Z. Ibrahimović,37,Sweden,LA Galaxy,85,85
+98,A. Gómez,31,Argentina,Atalanta,85,85
+99,G. Higuaín,31,Argentina,Juventus,85,85
+100,B. Matuidi,32,France,Juventus,85,85
+101,G. Bale,29,Wales,Real Madrid,85,85
+102,Marcelo,31,Brazil,Real Madrid,85,85
+103,A. Witsel,30,Belgium,Borussia Dortmund,85,85
+104,Alex Sandro,28,Brazil,Juventus,85,85
+105,Iago Aspas,31,Spain,RC Celta,85,85
+106,Koke,27,Spain,Atlético Madrid,85,85
+107,J. Rodríguez,27,Colombia,Real Madrid,85,85
+108,Allan,28,Brazil,Napoli,85,85
+109,J. Sancho,19,England,Borussia Dortmund,92,84
+110,K. Havertz,20,Germany,Bayer 04 Leverkusen,92,84
+111,O. Dembélé,22,France,FC Barcelona,90,84
+112,Kepa,24,Spain,Chelsea,89,84
+113,João Cancelo,25,Portugal,Manchester City,89,84
+114,D. Alli,23,England,Tottenham Hotspur,89,84
+115,L. Hernández,23,France,FC Bayern München,89,84
+116,Arthur,22,Brazil,FC Barcelona,89,84
+117,M. Depay,25,Netherlands,Olympique Lyonnais,88,84
+118,L. Goretzka,24,Germany,FC Bayern München,88,84
+119,J. Brandt,23,Germany,Borussia Dortmund,88,84
+120,K. Coman,23,France,FC Bayern München,88,84
+121,S. Gnabry,23,Germany,FC Bayern München,87,84
+122,N. Fekir,25,France,Real Betis,87,84
+123,B. Leno,27,Germany,Arsenal,86,84
+124,Luis Alberto,26,Spain,Lazio,86,84
+125,Alex Telles,26,Brazil,FC Porto,86,84
+126,J. Pavlenka,27,Czech Republic,SV Werder Bremen,86,84
+127,S. de Vrij,27,Netherlands,Inter,85,84
+128,Felipe Anderson,26,Brazil,West Ham United,85,84
+129,Pepe,36,Portugal,FC Porto,84,84
+130,João Moutinho,32,Portugal,Wolverhampton Wanderers,84,84
+131,S. Ruffier,32,France,AS Saint-Étienne,84,84
+132,S. Sirigu,32,Italy,Torino,84,84
+133,M. Hamšík,31,Slovakia,Dalian YiFang FC,84,84
+134,Sokratis,31,Greece,Arsenal,84,84
+135,Lucas Leiva,32,Brazil,Lazio,84,84
+136,M. Özil,30,Germany,Arsenal,84,84
+137,Javi Martínez,30,Spain,FC Bayern München,84,84
+138,Y. Sommer,30,Switzerland,Borussia Mönchengladbach,84,84
+139,E. Džeko,33,Bosnia Herzegovina,Roma,84,84
+140,G. Wijnaldum,28,Netherlands,Liverpool,84,84
+141,I. Perišić,30,Croatia,FC Bayern München,84,84
+142,M. Mandžukić,33,Croatia,Juventus,84,84
+143,A. Vidal,32,Chile,FC Barcelona,84,84
+144,J. Boateng,30,Germany,FC Bayern München,84,84
+145,Azpilicueta,29,Spain,Chelsea,84,84
+146,José Callejón,32,Spain,Napoli,84,84
+147,I. Gündoğan,28,Germany,Manchester City,84,84
+148,Paulinho,30,Brazil,Guangzhou Evergrande Taobao FC,84,84
+149,K. Walker,29,England,Manchester City,84,84
+150,Canales,28,Spain,Real Betis,84,84
+151,Douglas Costa,28,Brazil,Juventus,84,84
+152,Pizzi,29,Portugal,SL Benfica,84,84
+153,D. Tadić,30,Serbia,Ajax,84,84
+154,J. Iličić,31,Slovenia,Atalanta,84,84
+155,R. Mahrez,28,Algeria,Manchester City,84,84
+156,E. Višća,29,Bosnia Herzegovina,Medipol Başakşehir FK,84,84
+157,Felipe,30,Brazil,Atlético Madrid,84,84
+158,Fabián,23,Spain,Napoli,90,83
+159,A. Romagnoli,24,Italy,Milan,89,83
+160,G. Lo Celso,23,Argentina,Tottenham Hotspur,89,83
+161,T. Alexander-Arnold,20,England,Liverpool,89,83
+162,L. Jović,21,Serbia,Real Madrid,89,83
+163,A. Milik,25,Poland,Napoli,88,83
+164,A. Martial,23,France,Manchester United,88,83
+165,Anderson Talisca,25,Brazil,Guangzhou Evergrande Taobao FC,88,83
+166,J. Tah,23,Germany,Bayer 04 Leverkusen,88,83
+167,C. Tolisso,24,France,FC Bayern München,88,83
+168,Pau López,24,Spain,Roma,88,83
+169,Gonçalo Guedes,22,Portugal,Valencia CF,88,83
+170,N. Pépé,24,Ivory Coast,Arsenal,88,83
+171,M. Akanji,23,Switzerland,Borussia Dortmund,88,83
+172,M. Rashford,21,England,Manchester United,88,83
+173,J. Stones,25,England,Manchester City,87,83
+174,A. Rabiot,24,France,Juventus,87,83
+175,Grimaldo,23,Spain,SL Benfica,87,83
+176,T. Werner,23,Germany,RB Leipzig,87,83
+177,T. Lemar,23,France,Atlético Madrid,87,83
+178,D. Sánchez,23,Colombia,Tottenham Hotspur,87,83
+179,Marco Asensio,23,Spain,Real Madrid,87,83
+180,L. Digne,25,France,Everton,86,83
+181,J. Draxler,25,Germany,Paris Saint-Germain,86,83
+182,J. Pickford,25,England,Everton,86,83
+183,Y. Carrasco,25,Belgium,Dalian YiFang FC,86,83
+184,Borja Iglesias,26,Spain,Real Betis,86,83
+185,K. Casteels,27,Belgium,VfL Wolfsburg,85,83
+186,W. Zaha,26,Ivory Coast,Crystal Palace,85,83
+187,Paco Alcácer,25,Spain,Borussia Dortmund,85,83
+188,Morata,26,Spain,Atlético Madrid,85,83
+189,S. Haller,25,France,West Ham United,85,83
+190,William Carvalho,27,Portugal,Real Betis,85,83
+191,F. Bernardeschi,25,Italy,Juventus,85,83
+192,D. Djené,27,Togo,Getafe CF,85,83
+193,Oscar,27,Brazil,Shanghai SIPG FC,84,83
+194,K. Trapp,28,Germany,Eintracht Frankfurt,84,83
+195,Bartra,28,Spain,Real Betis,84,83
+196,Pablo Sarabia,27,Spain,Paris Saint-Germain,84,83
+197,J. Cillessen,30,Netherlands,Valencia CF,84,83
+198,Lucas Moura,26,Brazil,Tottenham Hotspur,84,83
+199,F. Thauvin,26,France,Olympique de Marseille,84,83
+200,Jorginho,27,Italy,Chelsea,84,83
+201,G. Buffon,41,Italy,Juventus,83,83
+202,Casillas,38,Spain,FC Porto,83,83
+203,R. Jarstein,34,Norway,Hertha BSC,83,83
+204,V. Kompany,33,Belgium,RSC Anderlecht,83,83
+205,Raúl Albiol,33,Spain,Villarreal CF,83,83
+206,F. Quagliarella,36,Italy,Sampdoria,83,83
+207,K. Schmeichel,32,Denmark,Leicester City,83,83
+208,Falcao,33,Colombia,AS Monaco,83,83
+209,Miranda,34,Brazil,Jiangsu Suning FC,83,83
+210,C. Vela,30,Mexico,Los Angeles FC,83,83
+211,E. Garay,32,Argentina,Valencia CF,83,83
+212,Rui Patrício,31,Portugal,Wolverhampton Wanderers,83,83
+213,R. Nainggolan,31,Belgium,Cagliari,83,83
+214,E. Banega,31,Argentina,Sevilla FC,83,83
+215,Diego Costa,30,Spain,Atlético Madrid,83,83
+216,S. Khedira,32,Germany,Juventus,83,83
+217,David Luiz,32,Brazil,Arsenal,83,83
+218,M. Kruse,31,Germany,Fenerbahçe SK,83,83
+219,J. Henderson,29,England,Liverpool,83,83
+220,G. Sigurðsson,29,Iceland,Everton,83,83
+221,A. Ramsey,28,Wales,Juventus,83,83
+222,Illarramendi,29,Spain,Real Sociedad,83,83
+223,D. Blind,29,Netherlands,Ajax,83,83
+224,L. Hrádecký,29,Finland,Bayer 04 Leverkusen,83,83
+225,N. Otamendi,31,Argentina,Manchester City,83,83
+226,J. Cuadrado,31,Colombia,Juventus,83,83
+227,I. Gueye,29,Senegal,Paris Saint-Germain,83,83
+228,K. Kampl,28,Slovenia,RB Leipzig,83,83
+229,Rodrigo,28,Spain,Valencia CF,83,83
+230,C. Aránguiz,30,Chile,Bayer 04 Leverkusen,83,83
+231,W. Ben Yedder,28,France,AS Monaco,83,83
+232,F. Acerbi,31,Italy,Lazio,83,83
+233,Danilo Pereira,27,Portugal,FC Porto,83,83
+234,A. Kramarić,28,Croatia,TSG 1899 Hoffenheim,83,83
+235,Louri Beretta,27,Brazil,Atlético Mineiro,83,83
+236,Josué Chiamulera,27,Brazil,Grêmio,83,83
+237,Ronaldo Cabrais,27,Brazil,Grêmio,83,83
+238,Oyarzabal,22,Spain,Real Sociedad,89,82
+239,L. Bailey,21,Jamaica,Bayer 04 Leverkusen,88,82
+240,Gabriel Jesus,22,Brazil,Manchester City,88,82
+241,M. Kovačić,25,Croatia,Chelsea,87,82
+242,A. Belotti,25,Italy,Torino,87,82
+243,T. Strakosha,24,Albania,Lazio,87,82
+244,N. Keïta,24,Guinea,Liverpool,87,82
+245,L. Torreira,23,Uruguay,Arsenal,87,82
+246,Rúben Neves,22,Portugal,Wolverhampton Wanderers,87,82
+247,P. Kimpembe,23,France,Paris Saint-Germain,87,82
+248,S. Bergwijn,21,Netherlands,PSV,87,82
+249,A. Onana,23,Cameroon,Ajax,87,82
+250,Nélson Semedo,25,Portugal,FC Barcelona,87,82
+251,A. Areola,26,France,Paris Saint-Germain,86,82
+252,M. Perin,26,Italy,Juventus,86,82
+253,D. Rugani,24,Italy,Juventus,86,82
+254,A. Correa,24,Argentina,Atlético Madrid,86,82
+255,Iñaki Williams,25,Spain,Athletic Club de Bilbao,86,82
+256,H. Lozano,23,Mexico,PSV,86,82
+257,Gelson Martins,24,Portugal,AS Monaco,86,82
+258,B. Lecomte,28,France,AS Monaco,85,82
+259,T. Partey,26,Ghana,Atlético Madrid,85,82
+260,K. Demirbay,25,Germany,Bayer 04 Leverkusen,85,82
+261,J. Matip,27,Cameroon,Liverpool,84,82
+262,Suso,25,Spain,Milan,84,82
+263,S. Savić,28,Montenegro,Atlético Madrid,84,82
+264,A. Rüdiger,26,Germany,Chelsea,84,82
+265,Pacheco,27,Spain,Deportivo Alavés,84,82
+266,Ricardo Pereira,25,Portugal,Leicester City,84,82
+267,N. Tagliafico,26,Argentina,Ajax,84,82
+268,David Soria,26,Spain,Getafe CF,84,82
+269,Sergio Asenjo,30,Spain,Villarreal CF,83,82
+270,Muniain,26,Spain,Athletic Club de Bilbao,83,82
+271,M. Götze,27,Germany,Borussia Dortmund,83,82
+272,T. Delaney,27,Denmark,Borussia Dortmund,83,82
+273,O. Baumann,29,Germany,TSG 1899 Hoffenheim,83,82
+274,Willian José,27,Brazil,Real Sociedad,83,82
+275,Sergi Roberto,27,Spain,FC Barcelona,83,82
+276,N. Schulz,26,Germany,Borussia Dortmund,83,82
+277,K. Volland,26,Germany,Bayer 04 Leverkusen,83,82
+278,Nacho Fernández,29,Spain,Real Madrid,83,82
+279,Gabriel Paulista,28,Brazil,Valencia CF,83,82
+280,J. Roussillon,26,France,VfL Wolfsburg,83,82
+281,H. Maguire,26,England,Manchester United,83,82
+282,T. Hazard,26,Belgium,Borussia Dortmund,83,82
+283,E. Forsberg,27,Sweden,RB Leipzig,83,82
+284,F. Kostić,26,Serbia,Eintracht Frankfurt,83,82
+285,M. Politano,25,Italy,Inter,83,82
+286,Rafa,26,Portugal,SL Benfica,83,82
+287,Pepe Reina,36,Spain,Milan,82,82
+288,D. De Rossi,35,Italy,Boca Juniors,82,82
+289,Aduriz,38,Spain,Athletic Club de Bilbao,82,82
+290,Jesús Navas,33,Spain,Sevilla FC,82,82
+291,Santi Cazorla,34,Spain,Villarreal CF,82,82
+292,H. Herrera,29,Mexico,Atlético Madrid,82,82
+293,L. Biglia,33,Argentina,Milan,82,82
+294,L. Fabiański,34,Poland,West Ham United,82,82
+295,E. Viviano,33,Italy,Sporting CP,82,82
+296,Juan Mata,31,Spain,Manchester United,82,82
+297,O. Giroud,32,France,Chelsea,82,82
+298,S. Kjær,30,Denmark,Sevilla FC,82,82
+299,Willian,30,Brazil,Chelsea,82,82
+300,V. Ćorluka,33,Croatia,Lokomotiv Moscow,82,82
+301,M. Arnautović,30,Austria,Shanghai SIPG FC,82,82
+302,A. Sánchez,30,Chile,Manchester United,82,82
+303,Giuliano,29,Brazil,Al Nassr,82,82
+304,A. Kolarov,33,Serbia,Roma,82,82
+305,M. Balotelli,28,Italy,Brescia,82,82
+306,Marlos,31,Ukraine,Shakhtar Donetsk,82,82
+307,Taison,31,Brazil,Shakhtar Donetsk,82,82
+308,B. Dost,30,Netherlands,Sporting CP,82,82
+309,G. Bonaventura,29,Italy,Milan,82,82
+310,Pedro,31,Spain,Chelsea,82,82
+311,L. de Jong,28,Netherlands,Sevilla FC,82,82
+312,S. El Shaarawy,26,Italy,Shanghai Greenland Shenhua FC,82,82
+313,Ander Herrera,29,Spain,Paris Saint-Germain,82,82
+314,X. Shaqiri,27,Switzerland,Liverpool,82,82
+315,Mário Fernandes,28,Russia,PFC CSKA Moscow,82,82
+316,S. Coates,28,Uruguay,Sporting CP,82,82
+317,C. Bakambu,28,DR Congo,Beijing Sinobo Guoan FC,82,82
+318,T. Meunier,27,Belgium,Paris Saint-Germain,82,82
+319,K. Bellarabi,29,Germany,Bayer 04 Leverkusen,82,82
+320,J. Lingard,26,England,Manchester United,82,82
+321,Q. Promes,27,Netherlands,Ajax,82,82
+322,J. Vardy,32,England,Leicester City,82,82
+323,D. Zapata,28,Colombia,Atalanta,82,82
+324,Morales,31,Spain,Levante UD,82,82
+325,Raphaelito Anjos,31,Brazil,Grêmio,82,82
+326,Juiano Mestres,35,Brazil,Cruzeiro,82,82
+327,Rosberto Dourado,31,Brazil,Atlético Mineiro,82,82
+328,E. Schetino,27,Uruguay,Uruguay,82,82
+329,J. Sildero,27,Uruguay,Uruguay,82,82
+330,L. Martínez,21,Argentina,Inter,89,81
+331,H. Aouar,21,France,Olympique Lyonnais,89,81
+332,T. Ndombele,22,France,Tottenham Hotspur,89,81
+333,Éder Militão,21,Brazil,Real Madrid,88,81
+334,A. Cragno,25,Italy,Cagliari,87,81
+335,D. van de Beek,22,Netherlands,Ajax,87,81
+336,V. Lindelöf,24,Sweden,Manchester United,87,81
+337,Dani Ceballos,22,Spain,Arsenal,87,81
+338,Pablo Fornals,23,Spain,West Ham United,87,81
+339,E. Can,25,Germany,Juventus,86,81
+340,Gayà,24,Spain,Valencia CF,86,81
+341,David Neres,22,Brazil,Ajax,86,81
+342,P. Zieliński,25,Poland,Napoli,85,81
+343,G. Rulli,27,Argentina,Montpellier HSC,85,81
+344,G. Xhaka,26,Switzerland,Arsenal,84,81
+345,Rafinha,26,Brazil,FC Barcelona,84,81
+346,G. Kondogbia,26,Central African Rep.,Valencia CF,84,81
+347,M. Sabitzer,25,Austria,RB Leipzig,84,81
+348,L. Shaw,23,England,Manchester United,84,81
+349,J. Martínez,26,Venezuela,Atlanta United,84,81
+350,A. Doucouré,26,France,Watford,84,81
+351,W. Ndidi,22,Nigeria,Leicester City,84,81
+352,T. Horn,26,Germany,1. FC Köln,83,81
+353,W. Orban,26,Hungary,RB Leipzig,83,81
+354,A. Plea,26,France,Borussia Mönchengladbach,83,81
+355,Y. Poulsen,25,Denmark,RB Leipzig,83,81
+356,R. Fraser,25,Scotland,Bournemouth,83,81
+357,M. Ginter,25,Germany,Borussia Mönchengladbach,83,81
+358,R. Guerreiro,25,Portugal,Borussia Dortmund,83,81
+359,João Mário,26,Portugal,Inter,83,81
+360,Thiago Mendes,27,Brazil,Olympique Lyonnais,83,81
+361,A. Izzo,27,Italy,Torino,83,81
+362,M. Brozović,26,Croatia,Inter,83,81
+363,A. Ljajić,27,Serbia,Beşiktaş JK,82,81
+364,J. Corona,26,Mexico,FC Porto,82,81
+365,Jordi Masip,30,Spain,Real Valladolid CF,82,81
+366,T. Vaclík,30,Czech Republic,Sevilla FC,82,81
+367,L. Milivojević,28,Serbia,Crystal Palace,82,81
+368,Gerard Moreno,27,Spain,Villarreal CF,82,81
+369,W. Weghorst,26,Netherlands,VfL Wolfsburg,82,81
+370,Quaresma,35,Portugal,Beşiktaş JK,81,81
+371,J. Mathieu,35,France,Sporting CP,81,81
+372,J. Milner,33,England,Liverpool,81,81
+373,L. López,36,Argentina,Racing Club,81,81
+374,B. Gomis,33,France,Al Hilal,81,81
+375,M. Dembélé,31,Belgium,Guangzhou R&F FC,81,81
+376,Cesc Fàbregas,32,Spain,AS Monaco,81,81
+377,A. Consigli,32,Italy,Sassuolo,81,81
+378,L. Koscielny,33,France,FC Girondins de Bordeaux,81,81
+379,Jardel,33,Brazil,SL Benfica,81,81
+380,Renato Augusto,31,Brazil,Beijing Sinobo Guoan FC,81,81
+381,José Fonte,35,Portugal,LOSC Lille,81,81
+382,A. Guardado,32,Mexico,Real Betis,81,81
+383,L. Piszczek,34,Poland,Borussia Dortmund,81,81
+384,K. Gameiro,32,France,Valencia CF,81,81
+385,D. Payet,32,France,Olympique de Marseille,81,81
+386,Beñat,32,Spain,Athletic Club de Bilbao,81,81
+387,Adán,32,Spain,Atlético Madrid,81,81
+388,B. Höwedes,31,Germany,Lokomotiv Moscow,81,81
+389,F. Muslera,33,Uruguay,Galatasaray SK,81,81
+390,M. Sissoko,29,France,Tottenham Hotspur,81,81
+391,M. Parolo,34,Italy,Lazio,81,81
+392,Fernando,31,Brazil,Sevilla FC,81,81
+393,N. Gaitán,31,Argentina,Chicago Fire,81,81
+394,S. Giovinco,32,Italy,Al Hilal,81,81
+395,Luiz Gustavo,31,Brazil,Olympique de Marseille,81,81
+396,N. Nkoulou,29,Cameroon,Torino,81,81
+397,N. Matić,30,Serbia,Manchester United,81,81
+398,Marcos Alonso,28,Spain,Chelsea,81,81
+399,H. Mkhitaryan,30,Armenia,Arsenal,81,81
+400,André Almeida,28,Portugal,SL Benfica,81,81
+401,A. Florenzi,28,Italy,Roma,81,81
+402,E. Zahavi,31,Israel,Guangzhou R&F FC,81,81
+403,F. Vázquez,30,Argentina,Sevilla FC,81,81
+404,Lucas Vázquez,28,Spain,Real Madrid,81,81
+405,Dani García,29,Spain,Athletic Club de Bilbao,81,81
+406,M. Acuña,27,Argentina,Sporting CP,81,81
+407,Laure Santeiro,31,Brazil,Fluminense,81,81
+408,J. Frendado,35,Uruguay,Uruguay,81,81
+409,S. Ardero,31,Uruguay,Uruguay,81,81
+410,L. Dálves,27,Uruguay,Uruguay,81,81
+411,S. Mandíquez,30,Ecuador,Ecuador,81,81
+412,João Félix,19,Portugal,Atlético Madrid,93,80
+413,N. Barella,22,Italy,Inter,88,80
+414,J. Gomez,22,England,Liverpool,88,80
+415,A. Christensen,23,Denmark,Chelsea,87,80
+416,M. Maignan,23,France,LOSC Lille,87,80
+417,Y. Tielemans,22,Belgium,Leicester City,87,80
+418,Mario Hermoso,24,Spain,Atlético Madrid,87,80
+419,Carlos Soler,22,Spain,Valencia CF,87,80
+420,M. Caldara,25,Italy,Milan,86,80
+421,H. Winks,23,England,Tottenham Hotspur,86,80
+422,K. Piątek,24,Poland,Milan,86,80
+423,Diogo Jota,22,Portugal,Wolverhampton Wanderers,86,80
+424,Marcos Llorente,24,Spain,Atlético Madrid,86,80
+425,F. Mendy,24,France,Real Madrid,86,80
+426,Melendo,21,Spain,RCD Espanyol,86,80
+427,Rúben Dias,22,Portugal,SL Benfica,86,80
+428,D. Livaković,23,Croatia,Dinamo Zagreb,86,80
+429,Héctor Bellerín,24,Spain,Arsenal,85,80
+430,B. Mendy,24,France,Manchester City,85,80
+431,M. Dembélé,22,France,Olympique Lyonnais,85,80
+432,O. Vlachodimos,25,Greece,SL Benfica,85,80
+433,Santi Mina,23,Spain,RC Celta,85,80
+434,Rony Lopes,23,Portugal,Sevilla FC,85,80
+435,J. Correa,24,Argentina,Lazio,85,80
+436,T. Bakayoko,24,France,Chelsea,85,80
+437,M. Eggestein,22,Germany,SV Werder Bremen,85,80
+438,Odriozola,23,Spain,Real Madrid,85,80
+439,M. Gómez,22,Uruguay,Valencia CF,85,80
+440,Sergi Darder,25,Spain,RCD Espanyol,84,80
+441,K. Zouma,24,France,Chelsea,84,80
+442,L. Paredes,25,Argentina,Paris Saint-Germain,84,80
+443,N. Aké,24,Netherlands,Bournemouth,84,80
+444,E. Hysaj,25,Albania,Napoli,84,80
+445,André Gomes,25,Portugal,Everton,84,80
+446,K. Baldé,24,Senegal,AS Monaco,84,80
+447,J. Weigl,23,Germany,Borussia Dortmund,84,80
+448,V. Rongier,24,France,FC Nantes,84,80
+449,Yeray,24,Spain,Athletic Club de Bilbao,84,80
+450,Loren,25,Spain,Real Betis,84,80
